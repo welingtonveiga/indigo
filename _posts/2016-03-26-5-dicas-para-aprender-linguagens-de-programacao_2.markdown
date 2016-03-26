@@ -7,8 +7,11 @@ tag:
 - dicas
 - programação
 blog: true
-summary: Quer aprender uma nova linguagem de programação e não sabe por onde começar?
 ---
+
+## Summary:
+
+Quer aprender uma nova linguagem de programação e não sabe por onde começar?
 
 #### Especial Elements
 - [Evidence](#evidence)

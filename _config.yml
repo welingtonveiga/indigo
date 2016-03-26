@@ -9,8 +9,8 @@ external-image: false
 picture: 'assets/images/logo.gif'
 profile: 'assets/images/profile.jpg'
 
-url: http://welingtonveiga.github.io
-# url: http://localhost
+# url: http://welingtonveiga.github.io
+url: http://localhost:3000
 
 # your url: http://USERNAME.github.io
 
