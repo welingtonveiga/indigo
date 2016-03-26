@@ -6,8 +6,8 @@ bio: Um blog sobre formas de resolver problemas
 external-image: false
 picture: 'assets/images/profile.jpg'
 
-#url: http://welingtonveiga.github.io
-url: http://localhost
+url: http://welingtonveiga.github.io
+#url: http://localhost
 
 # your url: http://USERNAME.github.io
 
