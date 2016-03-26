@@ -9,11 +9,9 @@
         <a class="link" href="{{ site.url }}/about">
             <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image == true %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
         </a>
-
-        <h1 class="title">{{ site.name }}</h1>
-        <h2 class="description">{{ site.bio }}</h2>
-
-        {% include social-links.html %}
+        <h1 class="title text-body ">$ {{ site.name }} 
+          <br /><span class="small-text">{{ site.bio }}</span><span class="typed-cursor small-text">_</span>
+        </h1>
     </header>
 {% endif %}
 

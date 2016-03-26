@@ -1,12 +1,14 @@
 # main text of home
-name: John Doe
-bio: 'A Man who travels the world eating noodles'
+name: not-about-computers
+bio: Um blog sobre formas de resolver problemas
 
 # if it's an external image, update below for true
 external-image: false
 picture: 'assets/images/profile.jpg'
 
-url: http://sergiokopplin.github.io/indigo
+#url: http://welingtonveiga.github.io
+url: http://localhost
+
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -20,17 +22,17 @@ analytics-google: 'UA-MYANALYTICS'
 disqus: mydisqus
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: welington.veiga
+twitter: welingtonveiga
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: mylinkedin
-youtube: myyoutube
-spotify: myspotify
-github: mygithub
-medium: medium
-email: myemail@gmail.com
+linkedin: welingtonveiga
+#youtube: myyoutube
+#spotify: myspotify
+github: welingtonveiga
+#medium: medium
+email: welington.veiga@gmail.com
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -42,7 +44,7 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+projects: false
 
 # if you don't need "about" or "blog", comment them out below
 about: true
