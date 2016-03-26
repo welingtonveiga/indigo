@@ -3,8 +3,8 @@ title: About
 layout: page
 permalink: /about/index.html
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
-
+![Profile Image]({{ site.url }}/{{ site.profile }})
+teste!!!
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
