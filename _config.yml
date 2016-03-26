@@ -6,7 +6,7 @@ author: Welington Veiga
 
 # if it's an external image, update below for true
 external-image: false
-picture: 'assets/images/logo.png'
+picture: 'assets/images/logo.gif'
 profile: 'assets/images/profile.jpg'
 
 url: http://welingtonveiga.github.io
