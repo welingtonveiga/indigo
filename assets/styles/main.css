@@ -845,6 +845,10 @@ pre {
   box-shadow: 0 0px 4px 0 rgba(0,0,0,0.18), 0 0px 12px 0 rgba(0,0,0,0.15);
   opacity: 0.8;
 }
+.header-home > .link > .selfie2 {
+  width: 125px;
+  margin-bottom: 25px;
+}
 .header-home > .title {
   font-size: 4rem;
   margin: 0 0 13px;
@@ -862,18 +866,17 @@ pre {
 }
 .typed-cursor {
   opacity: 1;
+  font-weight: 900 !important;
   -webkit-animation: blink 0.7s infinite;
   animation: blink 0.7s infinite;
 }
 .text-body {
-  background-color: rgba(0,0,0,0.85) !important;
   padding: 10px !important;
-  color: #f0f0f0 !important;
   text-shadow: #000 0px 1px 0px !important;
   font-family: "Consolas", "Courier New", "Courier" !important;
-  font-size: 1.75em !important;
+  font-size: 2.5em !important;
   line-height: 1.4em !important;
-  font-weight: 500 !important;
+  font-weight: 800 !important;
   text-align: left !important;
   overflow: hidden !important;
   -webkit-transition: all 0.5s ease-out !important;
