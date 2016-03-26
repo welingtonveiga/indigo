@@ -9,7 +9,7 @@
         <a class="link" href="{{ site.url }}/about">
             <img class="selfie2" alt="{{ site.name }}" src="{% if site.external-image == true %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
         </a>
-        <h1 class="title text-body">$ {{ site.name }} <span class="typed-cursor small-text">_</span></h1>
+        <h1 class="title text-body">{{ site.name }}<span class="typed-cursor small-text">_</span></h1>
     </header>
 {% endif %}
 
