@@ -835,6 +835,7 @@ pre {
 .header-home > .link > .selfie {
   width: 125px;
   border-radius: 100%;
+  margin-bottom: 25px;
   -webkit-transition: all 0.2s;
           transition: all 0.2s;
   box-shadow: 0;
@@ -846,7 +847,6 @@ pre {
 }
 .header-home > .link > .selfie2 {
   width: 125px;
-  margin-bottom: 25px;
 }
 .header-home > .title {
   font-size: 4rem;
