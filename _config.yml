@@ -1,10 +1,13 @@
 # main text of home
 name: not-about-computers
 bio: Um blog sobre formas de resolver problemas
+author: Welington Veiga
+
 
 # if it's an external image, update below for true
 external-image: false
-picture: 'assets/images/profile.jpg'
+picture: 'assets/images/logo.gif'
+profile: 'assets/images/profile.jpg'
 
 url: http://welingtonveiga.github.io
 # url: http://localhost
