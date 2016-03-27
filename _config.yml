@@ -45,7 +45,7 @@ titlecase: true
 owner:
   name: Welington Veiga
   avatar: bio-photo.jpg
-  bio: "Computação antes de computadores e solução antes de código."
+  bio: "Computação antes de computadores."
   email: welington.veiga@gmail.com
   disqus-shortname:
   twitter: welingtonveiga
@@ -58,8 +58,8 @@ owner:
     ad-slot:
   bing-verify:
   github: welingtonveiga
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  stackoverflow: 541866/welington-veiga
+  linkedin: welingtonveiga
   xing: #username
   instagram: #username
   lastfm: #username
