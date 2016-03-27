@@ -1,9 +1,0 @@
-# humanstxt.org/
-
-# TEAM
-
-	Welington Veiga - notaboutcomputers.coms
-
-# TECHNOLOGY
-
-	HTML5, CSS3, JS, JEKYLL

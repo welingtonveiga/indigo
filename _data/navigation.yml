@@ -1,0 +1,9 @@
+# Site navigation links
+- title: blog
+  url: /posts/
+
+- title: Sobre
+  url: /about/
+
+- title: Currículo
+  url: /about/
