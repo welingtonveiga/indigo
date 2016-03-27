@@ -1,12 +1,10 @@
 # Site wide configuration
-
 title: Not About Computers
 locale: pt_BR
-url: 
+url: http://notaboutcomputers.com/
 
 
 # Jekyll configuration
-
 permalink:   /:categories/:title/
 markdown:    kramdown
 highlighter: rouge
@@ -25,9 +23,12 @@ kramdown:
 
 
 # Octopress
-
-safe: true
 lsi: false
+safe: true
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
 
 # Default extensions
 post_ext: md
