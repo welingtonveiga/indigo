@@ -32,7 +32,72 @@
   <div class="article-author-side">
     {% include _author-bio.html %}
   </div>
+
   <article class="post">
+      <style>
+
+    .console {
+        padding-bottom: 20px;
+
+    }
+
+   .console * {
+        background-color: white;    
+    }
+
+.console a {
+    position: relative;
+    font-family: monospace;
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    font-size: 2.5em;
+    font-weight: 900;
+}
+
+.cursor {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    background: white;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    border-left: .5em solid;
+    
+    -webkit-animation: typing 8s steps(20, end) infinite,
+        blinking 1s step-end infinite;
+    animation: typing 8s steps(20, end) infinite,
+        blinking 1s step-end infinite;
+}
+
+@-webkit-keyframes typing {
+    from,to { width: 100%; }
+    25% { width: 0; }
+    50% { width: 0; }
+    75% { width: 100%; }
+}
+
+@keyframes typing {
+    from { width: 100%; }
+    to { width: 0; }
+}
+
+@-webkit-keyframes blinking {
+    from, to { border-color: transparent; }
+    50% { border-color: black; }
+}
+
+@keyframes blinking {
+    from, to { border-color: transparent; }
+    50% { border-color: black; }
+}
+    </style>
+    <div class="console">
+      <a href="http://rudyjahchan.com">not-about-computers&nbsp;<span class="cursor">&nbsp;</span></a>
+    </div>
+<hr />
     <div class="headline-wrap">
       {% if page.link %}
         <h1><a href="{{ page.link }}">{{ page.title }}</a></h1>
