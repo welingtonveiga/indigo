@@ -9,11 +9,6 @@ comments: true
 
 ## Por que criar um blog?
 
-<figure>
-  <a href="#"><img src="/images/201603/computer.jpg"></a>
-  <figcaption><a href="http://st2.depositphotos.com/1494134/8987/v/170/depositphotos_89874402-Pixel-old-computer-isolated-vector.jpg" title="Old Pixel Computer">Pixel Olde Computer, on DepositImages</a>.</figcaption>
-</figure>
-
 2016, diversas plataformas super legais para compartilhar conteúdo, por que escrever um blog?
 
 Essa é uma pergunta muito pertinente e difícil de responder, mas estou confiante de que criar um blog e publicar em um espaço pessoal na internet ainda tem algum valor:
