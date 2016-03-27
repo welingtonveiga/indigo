@@ -27,6 +27,9 @@ kramdown:
 
 # Octopress
 
+safe: true
+lsi: false
+
 # Default extensions
 post_ext: md
 page_ext: md
