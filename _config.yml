@@ -3,7 +3,6 @@ title: Not About Computers
 locale: pt_BR
 url: http://notaboutcomputers.com/
 
-
 # Jekyll configuration
 permalink:   /:categories/:title/
 markdown:    kramdown
